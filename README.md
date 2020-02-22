@@ -1,2 +1,2 @@
 # homework1
-Escel homework
+Excel homework
